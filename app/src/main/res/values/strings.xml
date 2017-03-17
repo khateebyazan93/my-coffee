@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Coffee</string>
+
+    <!-- Hint text display in empty field  for user's name [CHAR LIMIT=20] -->
+    <string name="your_name">Your Name</string>
+
+    <!--text display in the left of Spinner-->
+    <string name="table_number">Table Number</string>
+
+    <!--text Header display in the top left of RecyclerView-->
+    <string name="our_drinks">Our Drinks :</string>
+
+    <!--text  display in the  left of the price-->
+    <string name="total_price">Total Price :</string>
+
+    <!-- text display in spinner of table's number-->
+    <string-array name="number_of_tables">
+        <item>UNKNOWN</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+</resources>
